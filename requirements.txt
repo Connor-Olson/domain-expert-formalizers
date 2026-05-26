@@ -1,0 +1,16 @@
+python-dotenv
+torch
+torchvision
+torchaudio
+unsloth
+xformers
+trl
+peft
+lean-dojo-v2
+git+https://github.com/stanford-centaur/PyPantograph
+datasets
+huggingface_hub
+pytest
+transformers
+accelerate
+bitsandbytes

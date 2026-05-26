@@ -1,0 +1,15 @@
+**/__pycache__/
+*.py[cod]
+*.safetensors
+*.bin
+*.pt
+outputs/
+checkpoint-*/
+.DS_Store
+.env
+venv/
+.venv/
+unsloth_compiled_cache/
+.pytest_cache/
+raid
+data
